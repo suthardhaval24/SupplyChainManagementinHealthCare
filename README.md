@@ -53,7 +53,7 @@ As and when a customer demands a product or farmer demands for raw materials tha
 10. PDF will be generated inside project folder only.
 11. The show Graoh will demnostrate the use case of bargraph.  
 
-* **KNOWS ISSUE**:
+* **KNOWN ISSUE**:
 
 TO generate the new instance of Ecosystem, you need to delete the db40 file.
 
@@ -61,5 +61,5 @@ TO generate the new instance of Ecosystem, you need to delete the db40 file.
 * **AUTHORS**:
 
 1. Dhaval Suthar 
-2. Krina Thakkar
+2. Krina Thakkar 
 3. Ronak Parakhiya
