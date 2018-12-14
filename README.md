@@ -59,5 +59,5 @@ TO generate the new instance of Ecosystem, you need to delete the db40 file.
 * **AUTHORS**:
 
 1. Dhaval Suthar 
-2. Krina Thakkar (https://github.com/KrinaThakkar)
+2. [Krina Thakkar] (https://github.com/KrinaThakkar)
 3. Ronak Parakhiya
