@@ -2,17 +2,17 @@
 
 ## PROJECT TITLE: SUPPLY CHAIN MANAGEMENT IN HEALTH CARE SYSTEM
 
-..* **PROJECT DESCRIPTION**:
+* **PROJECT DESCRIPTION**:
 
 The main objective of the project is to reduce the bottleneck in the supply chain of the HEALTH CARE SYSTEM. The idea is to add the priority to each request sent by the initiator and giving additional functionalities to the procurement team to take a decision and initiate an order by itself. 
 
-..* **IMPLEMENTATION**:
+* **IMPLEMENTATION**:
 
 This project has been implemented using a singleton pattern with fundamental JAVA concepts such as Abstraction, Collection APIs, External libraries and SWING GUI for the user interface. 
 The project also helps in understanding the concept of how to design an application with respect to an ecosystem. An ecosystem includes a list of networks, each network has a list of organizations and each organization has their respective users.
 As and when a customer demands a product or farmer demands for raw materials that request is met with proper response via proper channel
 
-..* **USE CASE**:
+* **USE CASE**:
 
 1. Doctor orders surgical items and drugs with the specified priority.
 2. Procurement Team will process the request and send the item if it is available in the hospital inventory else will order the requested item with priority to a supplier. 
@@ -21,25 +21,25 @@ As and when a customer demands a product or farmer demands for raw materials tha
 5. Based on the response from Manufacturer, if Manufacturer has supplied the item, Supplier will deliver the requested item to the Procurement team else if they can’t fulfill the request it will contact other manufacturers of different network.
 6. After receiving an order from the Supplier, Procurement team will update the item in the hospital inventory and can process the request of the doctors.
 
-..* **JDK and IDE USED**:
+* **JDK and IDE USED**:
 
 1. Java 8 or higher version
 2. NetBeans IDE 8.0.2
 
-..* **EXTERNAL LIBRARIES TO YOUR PROJECT**:
+* **EXTERNAL LIBRARIES TO YOUR PROJECT**:
 
 1. The necessary libraries are including in the project 
 
 2. If it does not includes while cloning, Below are the list of libraries we used in our project:
-.*AbsoluteLayout
-.*db4o-8.0.184.15484-all-java5
-.*itextpdf-5.4.0
-.*jcommon-1.0.0    
-.*jfreechart-1.0.1
+	1. AbsoluteLayout
+	2. db4o-8.0.184.15484-all-java5
+	3. itextpdf-5.4.0
+	4. jcommon-1.0.0    
+	5. jfreechart-1.0.1
 
 3. To add more libraries right click on Libraries --> Add Library or Add Jar files
 
-.** **HOW TO USE OUR PROJECT**:
+* **HOW TO USE OUR PROJECT**:
 
 1. After cloning our project make sure the libraries are added to your project. If not please go through section "ADD LIBRARIES TO YOUR PROJECT".
 2. Clean and build the project.
@@ -55,12 +55,12 @@ As and when a customer demands a product or farmer demands for raw materials tha
 10. PDF will be generated inside project folder only.
 11. The show Graoh will demnostrate the use case of bargraph.  
 
-.** **KNOWS ISSUES**:
+* **KNOWS ISSUES**:
 
 TO generate the new instance of Ecosystem, you need to delete the db40 file.
 
 
-.** **AUTHORS**:
+* **AUTHORS**:
 
 1. Dhaval Suthar
 2. Krina Thakkar
