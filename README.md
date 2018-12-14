@@ -12,7 +12,7 @@ This project has been implemented using a singleton pattern with fundamental JAV
 The project also helps in understanding the concept of how to design an application with respect to an ecosystem. An ecosystem includes a list of networks, each network has a list of organizations and each organization has their respective users.
 As and when a customer demands a product or farmer demands for raw materials that request is met with proper response via proper channel
 
-* **USE CASE**:
+* **USE CASES**:
 
 1. Doctor orders surgical items and drugs with the specified priority.
 2. Procurement Team will process the request and send the item if it is available in the hospital inventory else will order the requested item with priority to a supplier. 
@@ -29,14 +29,12 @@ As and when a customer demands a product or farmer demands for raw materials tha
 * **EXTERNAL LIBRARIES TO YOUR PROJECT**:
 
 1. The necessary libraries are including in the project 
-
 2. If it does not includes while cloning, Below are the list of libraries we used in our project:
 	1. AbsoluteLayout
 	2. db4o-8.0.184.15484-all-java5
 	3. itextpdf-5.4.0
 	4. jcommon-1.0.0    
 	5. jfreechart-1.0.1
-
 3. To add more libraries right click on Libraries --> Add Library or Add Jar files
 
 * **HOW TO USE OUR PROJECT**:
@@ -55,7 +53,7 @@ As and when a customer demands a product or farmer demands for raw materials tha
 10. PDF will be generated inside project folder only.
 11. The show Graoh will demnostrate the use case of bargraph.  
 
-* **KNOWS ISSUES**:
+* **KNOWS ISSUE**:
 
 TO generate the new instance of Ecosystem, you need to delete the db40 file.
 
