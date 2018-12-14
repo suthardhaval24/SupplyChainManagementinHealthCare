@@ -45,7 +45,7 @@ As and when a customer demands a product or farmer demands for raw materials tha
 2. Clean and build the project.
 3. Run the project
 4. First login credentials are as follows: (You can change it from configureSystem class of Business Package) 
-	a) Useraname: bruteforce1@gmail.com
+	a) Username: bruteforce1@gmail.com
 	b) Password: Bruteforce1$
 5. Create Network as Boston, Miami and add to the list.
 6. Create Employee for each network and they will the admin for accessing each network. Manager User will create credentials for the admin with respect to network.
@@ -62,6 +62,6 @@ TO generate the new instance of Ecosystem, you need to delete the db40 file.
 
 * **AUTHORS**:
 
-1. Dhaval Suthar
+1. Dhaval Suthar 
 2. Krina Thakkar
 3. Ronak Parakhiya
