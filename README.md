@@ -47,14 +47,13 @@ As and when a customer demands a product or farmer demands for raw materials tha
 6. Create Employee for each network and they will the admin for accessing each network. Manager User will create credentials for the admin with respect to network.
 7. Login using the admin credentials and create organisation by using the combo box in the frame.
 8. Create credentials for each organisation and you can login using that credentials.
-9. Add username as a valid email id of your in procurement organization which will set a emaill notification to your email. 
+9. Add username as a valid email id of your's in procurement organization which will send a emaill notification to your email. 
 10. PDF will be generated inside project folder only.
-11. The show Graoh will demnostrate the use case of bargraph.  
+11. The show Graph will demnostrate the use case of bargraph.  
 
 * **KNOWN ISSUE**:
 
-TO generate the new instance of Ecosystem, you need to delete the db40 file.
-
+TO generate the new instance of Ecosystem, you need to delete the db4o file.
 
 * **AUTHORS**:
 
