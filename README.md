@@ -8,7 +8,6 @@ The main objective of the project is to reduce the bottleneck in the supply chai
 
 This project has been implemented using a singleton pattern with fundamental JAVA concepts such as Abstraction, Collection APIs, External libraries and SWING GUI for the user interface. 
 The project also helps in understanding the concept of how to design an application with respect to an ecosystem. An ecosystem includes a list of networks, each network has a list of organizations and each organization has their respective users.
-As and when a customer demands a product or farmer demands for raw materials that request is met with proper response via proper channel
 
 * **USE CASES**:
 
